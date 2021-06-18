@@ -1,0 +1,29 @@
+---
+federation:
+  inbound:
+    service-id-mapping:
+    - from: "jfrou@*"
+      to: "jfrou@01f7kzftda3xwknnx02zrt4xbm"
+    - from: "jfmd@*"
+      to: "jfmd@01f7kzfxbaa45vdejm2ceefkcs"
+    - from: "jfevt@*"
+      to: "jfevt@01f7kzf77rzfmy1kbt51vz0ahc"
+    - from: "jfrt@*"
+      to: "jfrt@01f7kzh4xqw2g4045zxjyr0v9v"
+    - from: "jffe@*"
+      to: "jffe@000"
+licenses:
+- server-name: "bfe55daffb8d"
+  key: "cHJvZHVjdHM6CiAgYXJ0aWZhY3Rvcnk6CiAgICBwcm9kdWN0OiBaWGh3YVhKbGN6b2dNakF5TVMw\r\
+    \nd055MHdORlF4Tmpvek9Eb3lOQzR5TVROYUNtbGtPaUJoTjJNME5XUTJNUzAzTm1ZeExUUm1aRE10\r\
+    \nWWpGaE9DMW1abVkxWVRGak16YzBZelFLYjNkdVpYSTZJR1JtYzJaelpHWnpaR1lLY0hKdmNHVnlk\r\
+    \nR2xsY3pvZ2UzMEtjMmxuYm1GMGRYSmxPaUJ1ZFd4c0NuUnlhV0ZzT2lCMGNuVmxDblI1Y0dVNklG\r\
+    \nUlNTVUZNQ25aaGJHbGtSbkp2YlRvZ01qQXlNUzB3Tmkwd05GUXhOam96T0RveU5DNHlNVE5hQ2c9\r\
+    \nPQogICAgc2lnbmF0dXJlOiBMK3RSYjNZL3hIbXJ4Umo5bFI1eTBxc2xXUnhOdWUxYU5WYitJZ01I\r\
+    \ncTM3S3FqbEhOYW9POXZYVnZZRTNoY25hN2h6MGlRM3BpeGRNSG5sbTc0MDU0YnVSa2NMeHloQ1I0\r\
+    \nWk1TMng0MFNHd0k3ZHBYeUJwTWE1cFJqd2pwTGp2c21aZU1RVEoxMTZKZ1l4WjFuNTZEZjQ4cEpl\r\
+    \nOE10V1RyY29VemJVbm1SY25aaHBLSXI4VEJoalRsRW02b245Qnhzc3h6QXJ5SnFOZGE2SlNlM2xR\r\
+    \nc2FEdlczQ0tQeVRyMERNWWhQczdaeGpoeTlsK25PYjQvamtTN0IzeWhWd3ZpUHg1RXZ0NkNQT0g3\r\
+    \nVHNIbGJSSnNFMDBuTG9SYnB4a0k2aXoyTzFrYlMzU05BQ3dneHJUeU5GZmova1BJT1duYzNGMDhR\r\
+    \nek5WV3lFSmpSeGNlTC91OWc9PQp2ZXJzaW9uOiAxCg==\r\n"
+schema-version: 2

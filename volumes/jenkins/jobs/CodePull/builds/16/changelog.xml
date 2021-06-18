@@ -1,0 +1,10 @@
+commit 9eed081241d9ed130a33ca9129280478933c482c
+tree bacc5d1af4c60771a0f849dd26eab6e7bc58c41b
+parent 1e752f5bb41d3599dbf94e8ed965941e116de32c
+author Darek <darek@mail.com> 2021-06-17 15:54:56 +0200
+committer Darek <darek@mail.com> 2021-06-17 15:54:56 +0200
+
+    modyfikacja testu6
+
+
+:100644 100644 1fbbf78e1f2790a88a660c8d1d24058e508a13e2 ff40f8167189167085838cce02d93c9657ae9446 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java

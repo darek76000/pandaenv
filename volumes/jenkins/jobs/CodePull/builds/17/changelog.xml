@@ -1,0 +1,10 @@
+commit 7e0a0681d185779669778c026221cb69a7d2b098
+tree 4a4331b4defd1c22f3ef80f7fad4617831c5ade2
+parent 9eed081241d9ed130a33ca9129280478933c482c
+author Darek <darek@mail.com> 2021-06-17 16:14:21 +0200
+committer Darek <darek@mail.com> 2021-06-17 16:14:21 +0200
+
+    modyfikacja pom.xml
+
+
+:100644 100644 c29b9e22c080ecb959d43ce4c5a5e087376831b6 38cf6113c2b88e8ace035fb7da07eb6e5234a139 M	pom.xml

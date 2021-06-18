@@ -1,0 +1,9 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.mvn.GlobalMavenConfig>
+  <settingsProvider class="org.jenkinsci.plugins.configfiles.maven.job.MvnSettingsProvider" plugin="config-file-provider@3.8.0">
+    <settingsConfigId>2c0cf43c-a598-401c-a1e5-ae15bd64ba41</settingsConfigId>
+  </settingsProvider>
+  <globalSettingsProvider class="org.jenkinsci.plugins.configfiles.maven.job.MvnGlobalSettingsProvider" plugin="config-file-provider@3.8.0">
+    <settingsConfigId>fea214f9-dddc-414d-be51-069158911e1e</settingsConfigId>
+  </globalSettingsProvider>
+</jenkins.mvn.GlobalMavenConfig>

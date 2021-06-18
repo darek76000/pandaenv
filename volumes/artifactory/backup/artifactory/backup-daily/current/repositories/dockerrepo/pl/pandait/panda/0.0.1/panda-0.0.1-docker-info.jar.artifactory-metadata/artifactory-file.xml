@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>dockerrepo</repoKey>
+    <path>pl/pandait/panda/0.0.1/panda-0.0.1-docker-info.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>panda-0.0.1-docker-info.jar</name>
+  <created>1623263423288</created>
+  <lastModified>1623263423282</lastModified>
+  <size>3407</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1623263423290</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>sha1</type>
+          <original>f39a9414a9b027a1f31d0698c7ee647235bc36c6</original>
+          <actual>f39a9414a9b027a1f31d0698c7ee647235bc36c6</actual>
+        </checksum>
+        <checksum>
+          <type>md5</type>
+          <original>3f75ad84d69f41d4286f5c1af6a43fb1</original>
+          <actual>3f75ad84d69f41d4286f5c1af6a43fb1</actual>
+        </checksum>
+        <checksum>
+          <type>sha256</type>
+          <original>NO_ORIG</original>
+          <actual>a3c12d1f47e08dbe94a569a6eb49d0ee3e96b41003c01a041cddd7ee7cc860cf</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

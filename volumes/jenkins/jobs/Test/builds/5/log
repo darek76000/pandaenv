@@ -1,0 +1,10 @@
+Started by user [8mha:////4CagxiaLsAnMpvghvXT1xzvUB7ynNT9Z6wk/LH/hour2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9gsS8lEQACjKVYMAAAAA=[0mpanda
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Test
+[Test] $ /bin/sh -xe /tmp/jenkins15562596457436616152.sh
++ echo domyslnystring
+domyslnystring
++ false
++ echo bool NIE zaznaczony
+bool NIE zaznaczony
+Finished: SUCCESS

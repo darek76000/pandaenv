@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>dockerrepo</repoKey>
+    <path>pl/pandait</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>pandait</name>
+  <created>1623263422163</created>
+  <lastModified>1623263422163</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1623263422163</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>
